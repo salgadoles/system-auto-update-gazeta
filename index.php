@@ -9,7 +9,7 @@
         body {
             background-color: #f2f2f2;
         }
-        .login{
+        .login{ 
             width: 100%;
             height: 100vh;
             align-items: center;
@@ -19,7 +19,7 @@
     </style>
 
 </head>
-<body>
+<body>  
    <div class="login">
      <div class="container">
         <div class="row-lg-4 offset-lg-4">
